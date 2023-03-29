@@ -3,7 +3,7 @@
 
 <p align="center"> <img src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif" alt="domov44" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=domov44" alt="domov44" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=domov44" alt="domov44" /></a> </p>
 
 - 🔭 I’m currently working on [my portfolio](https://www.ronanscotet.com/)
 
