@@ -1,14 +1,32 @@
 <h1 align="center">Hi 👋, I'm Ronan Scotet</h1>
 <h3 align="center">Webmaster and frontend dev in France</h3>
 
-<p align="center"> <img src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif" alt="domov44" /> </p>
+<p align="center"> <img src="[https://komarev.com/ghpvc/?username=domov44&label=Profile%20views&color=0e75b6&style=flat](https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif)" alt="domov44" /> </p>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=domov44" alt="domov44" /></a> </p>
 
 - 🔭 I’m currently working on [my portfolio](https://www.ronanscotet.com/)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+- 🌱 I’m currently learning **Javascript native, PHP, Wordpress theme custom**
+
+- 👨‍💻 All of my projects are available at [https://www.ronanscotet.com/projets](https://www.ronanscotet.com/projets)
+
+- 📝 I regularly write articles on [https://www.nexus-corp.fr](https://www.nexus-corp.fr)
+
+- 💬 Ask me about **SEO good practice, Wordpress and frontdev**
+
+- 📫 How to reach me **ronanscotet467@gmail.com**
+
+- ⚡ Fun fact **Im from Estonia 👀**
+
+### Blogs posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+<h3 align="center">Connect with me:</h3>
+<p align="center">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/ronan-scotet-concepteur-web/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ronan-scotet-concepteur-web/" height="30" width="40" /></a>
+<a href="/https://www.nexus-corp.fr/feed/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://www.nexus-corp.fr/feed/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
