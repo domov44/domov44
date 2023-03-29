@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ronan Scotet</h1>
 <h3 align="center">Webmaster and frontend dev in France</h3>
 
-<p align="left"> <img src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif" alt="domov44" /> </p>
+<p align="center"> <img src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif" alt="domov44" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=domov44" alt="domov44" /></a> </p>
 
