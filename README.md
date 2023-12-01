@@ -1,19 +1,19 @@
 <h1 align="center">Hi 👋, I'm Ronan Scotet</h1>
-<h3 align="center">Webmaster and frontend dev in France</h3>
+<h3 align="center">Im fullstack developer and webmaster in France</h3>
 
 <p align="center"> <img src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif" alt="domov44" /> </p>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=domov44" alt="domov44" /></a> </p>
 
-- 🔭 I’m currently working on [my portfolio](https://www.ronanscotet.com/)
+- 🔭 I’m currently working on an ERP in ReactJS deployed on an VPS
 
-- 🌱 I’m currently learning **Javascript native, PHP, Wordpress theme custom**
+- 🌱 I’m currently learning **Docker, ReactJS, NodeJS, VueJS PHP, and Composer**
 
 - 👨‍💻 All of my projects are available at [https://www.ronanscotet.com/projets](https://www.ronanscotet.com/projets)
 
 - 📝 I regularly write articles on [https://www.nexus-corp.fr](https://www.nexus-corp.fr)
 
-- 💬 Ask me about **SEO good practice, Wordpress and frontdev**
+- 💬 Ask me about ** Frontend tips, ReactJS, SEO good practice, and Wordpress**
 
 - 📫 How to reach me **ronanscotet467@gmail.com**
 
