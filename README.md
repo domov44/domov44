@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ronan Scotet</h1>
-<h3 align="center">Im fullstack developer and webmaster in France</h3>
+<h3 align="center">Im a devops developer in France</h3>
 
 <p align="center"> <img src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif" alt="domov44" /> </p>
 
@@ -7,13 +7,13 @@
 
 - 🔭 I’m currently working on an ERP in ReactJS deployed on an VPS
 
-- 🌱 I’m currently learning **Docker, ReactJS, NodeJS, VueJS PHP, and Composer**
+- 🌱 I’m currently learning **AWS Amplify, Docker, ReactJS, NodeJS, VueJS PHP, Composer**
 
 - 👨‍💻 All of my projects are available at [https://www.ronanscotet.com/projets](https://www.ronanscotet.com/projets)
 
 - 📝 I regularly write articles on [https://www.nexus-corp.fr](https://www.nexus-corp.fr)
 
-- 💬 Ask me about ** Frontend tips, ReactJS, SEO good practice, and Wordpress**
+- 💬 Ask me about ** Frontend tips, ReactJS, AWS, SEO good practice, and Wordpress**
 
 - 📫 How to reach me **ronanscotet467@gmail.com**
 
