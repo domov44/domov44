@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ronan Scotet</h1>
 <h3 align="center">Im a devops developer in France</h3>
 
-<img src="https://komarev.com/ghpvc/?username=domov44&label=Profile%20views&color=0e75b6&style=flat" alt="domov44" />
+<div display="flex" align-items="center" justify-content="center">
+<img src="https://camo.githubusercontent.com/f3181da134e13f98e9b2caf7b11f52b3b5a223ad7e5da555521de0f3baa4d53d/68747470733a2f2f6d656469612e74656e6f722e636f6d2f476653582d753756474d3441414141432f636f64696e672e676966" alt="domov44" />
+</div>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=domov44" alt="domov44" /></a> </p>
 
