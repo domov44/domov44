@@ -7,15 +7,17 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=domov44" alt="domov44" /></a> </p>
 
-- 🔭 I’m currently working on [my portfolio](https://www.ronanscotet.com/)
+- 🔭 This is my portfolio on [my portfolio](https://www.ronanscotet.com/)
 
-- 🌱 I’m currently learning **AWS devops**
+- 💻 I'm currently working on a recipes SaaS
+
+- 🌱 I’m currently learning **AWS cloud**
 
 - 👨‍💻 All of my projects are available at [https://www.ronanscotet.com/projets](https://www.ronanscotet.com/projets)
 
 - 📝 I regularly write articles on [https://www.nexus-corp.fr](https://www.nexus-corp.fr)
 
-- 💬 Ask me about **AWS, Next, React, Express, Sequelize, devops deployment**
+- 💬 Ask me about **AWS, Amplify, Next, React, Express, Sequelize, devops deployment**
 
 - 📫 How to reach me **ronanscotet467@gmail.com**
 
