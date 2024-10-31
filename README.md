@@ -9,11 +9,11 @@
 
 - 🔭 This is my portfolio on [my portfolio](https://www.ronanscotet.com/)
 
-- 💻 I'm currently working on a recipes SaaS
+- 💻 I'm currently working on my new portfolio in nextjs and aws backend
 
-- 🌱 I’m currently learning **AWS cloud**
+- 🌱 I’m currently learning **AWS cloud** and **Next**
 
-- 👨‍💻 All of my projects are available at [https://www.ronanscotet.com/projets](https://www.ronanscotet.com/projets)
+- 👨‍💻 All of my projects are available at [https://www.ronanscotet.com/projets](https://www.ronanscotet.com/projects)
 
 - 📝 I regularly write articles on [https://www.nexus-corp.fr](https://www.nexus-corp.fr)
 
