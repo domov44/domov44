@@ -13,7 +13,7 @@
 
 - 🌱 I’m currently learning **AWS cloud** and **Next**
 
-- 👨‍💻 All of my projects are available at [https://www.ronanscotet.com/projets](https://www.ronanscotet.com/projects)
+- 👨‍💻 All of my projects are available at [https://www.ronanscotet.com/projets](https://www.ronanscotet.com/work)
 
 - 📝 I regularly write articles on [https://www.nexus-corp.fr](https://www.nexus-corp.fr)
 
