@@ -9,15 +9,14 @@
 
 - 🔭 This is my portfolio on [my portfolio](https://www.ronanscotet.com/)
 
-- 💻 I'm currently working on my new portfolio in nextjs and aws backend
+- 💻 I'm currently working on Miamze, a recipe ai SaaS, with Next, Nest, Groq and Pinecode using RAG.
 
-- 🌱 I’m currently learning **AWS cloud** and **Next**
 
 - 👨‍💻 All of my projects are available at [https://www.ronanscotet.com/work](https://www.ronanscotet.com/work)
 
 - 📝 I regularly write articles on [https://www.nexus-corp.fr](https://www.nexus-corp.fr)
 
-- 💬 Ask me about **AWS, Amplify, Next, React, Express, Sequelize, devops deployment**
+- 💬 Ask me about **AWS, Amplify, Next, React, Express, Sequelize, devops**
 
 - 📫 How to reach me **ronanscotet467@gmail.com**
 
